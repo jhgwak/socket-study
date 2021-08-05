@@ -1,0 +1,4 @@
+﻿  Server_UDPDlg.cpp
+c:\users\jhk37\onedrive\바탕 화면\server_udp\server_udpdlg.cpp(263): warning C4101: 'pc_freq' :참조되지 않은 지역 변수입니다.
+  Server_UDP.vcxproj -> C:\Users\jhk37\OneDrive\바탕 화면\Server_UDP\Debug\Server_UDP.exe
+  Server_UDP.vcxproj -> C:\Users\jhk37\OneDrive\바탕 화면\Server_UDP\Debug\Server_UDP.pdb (Partial PDB)
